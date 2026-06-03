@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student with a strong interest in Backend Development, Cybersecurity, and Software Engineering.<br><br>Currently learning Python, Django, and Django REST Framework while building real-world projects to strengthen my programming and problem-solving skills.<br><br>I enjoy understanding how systems work internally, designing APIs, and continuously improving my software development practices.<br><br>
+Computer Science student with a strong interest in Software Engineering.<br><br>Currently learning Python, Django, and Django REST Framework while building real-world projects to strengthen my programming and problem-solving skills.<br><br>I enjoy understanding how systems work internally, designing APIs, and continuously improving my software development practices.<br><br>
 
 
 ## 🌐 Socials:
